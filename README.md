@@ -14,4 +14,8 @@ pip3 install -r requirements.txt
 ```./game.py```
 
 
-<img width="278" alt="Screen Shot 2024-11-22 at 8 39 05 PM" src="https://github.com/user-attachments/assets/f09493f2-4c51-4123-b4be-a75ee9d4c1bd">
+<img width="296" alt="1" src="https://github.com/user-attachments/assets/e6a293b7-5312-4407-b26f-646fc522673d">
+
+<BR>
+
+<img width="309" alt="2" src="https://github.com/user-attachments/assets/606d6e1a-d96b-48a4-8c1c-bba7952161bf">
