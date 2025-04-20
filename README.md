@@ -4,6 +4,7 @@ Game that tests your knowledge of a given dates day-of-the-week
 
 ## Setup:
 ```
+git clone https://github.com/se7enack/Day-of-the-Week-Champ.git
 python3 -m venv .venv
 source .venv/bin/activate
 pip3 install --upgrade pip
